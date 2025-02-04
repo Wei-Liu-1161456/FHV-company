@@ -1,0 +1,18 @@
+[weight/kg]
+Spinach by weight/kg=25.99
+Carrot by weight/kg=25.99
+Pumpkin by weight/kg=25.99
+Lettuce by weight/kg=25.99
+Basil by weight/kg=25.99
+[unit]
+Spinach by unit=25.99
+Lettuce by unit=25.99
+Basil by unit=25.99
+Carrot by unit=25.99
+Pumpkin by unit=25.99
+[pack]
+Spinach by pack=25.99
+Pumpkin by pack=25.99
+Lettuce by pack=25.99
+Carrot by pack=25.99
+Basil by pack=25.99

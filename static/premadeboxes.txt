@@ -1,0 +1,20 @@
+[Small]
+price=70.00 
+item1=Basil by pack
+item2=Carrot by unit
+item3=Pumpkin by weight/kg
+
+[Medium]
+price=90.00
+item1=Spinach by weight
+item2=Basil by weight
+item3=Pumpkin by weight/kg
+item4=Carrot by pack
+
+[Large]
+price=110.00
+item1=Pumpkin by weight
+item2=Lettuce by unit
+item3=pinach by weight
+item4=Carrot by pack
+item5=Basil by unit
